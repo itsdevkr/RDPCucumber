@@ -1,0 +1,182 @@
+[
+  {
+    "source": "Url for Cleartrip Application",
+    "steps": [
+      {
+        "name": "Url for Cleartrip Application",
+        "aggregatedDurations": {
+          "median": 36.6342302,
+          "average": 36.6342302
+        },
+        "durations": [
+          {
+            "duration": 36.6342302,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Url is validated",
+    "steps": [
+      {
+        "name": "Url is validated",
+        "aggregatedDurations": {
+          "median": 9.992E-4,
+          "average": 9.992E-4
+        },
+        "durations": [
+          {
+            "duration": 9.992E-4,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select trip as RoundTrip",
+    "steps": [
+      {
+        "name": "Select trip as RoundTrip",
+        "aggregatedDurations": {
+          "median": 3.9018254,
+          "average": 3.9018254
+        },
+        "durations": [
+          {
+            "duration": 3.9018254,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Source",
+    "steps": [
+      {
+        "name": "Select Source",
+        "aggregatedDurations": {
+          "median": 1.7519183,
+          "average": 1.7519183
+        },
+        "durations": [
+          {
+            "duration": 1.7519183,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "select Destination",
+    "steps": [
+      {
+        "name": "select Destination",
+        "aggregatedDurations": {
+          "median": 0.1928795,
+          "average": 0.1928795
+        },
+        "durations": [
+          {
+            "duration": 0.1928795,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "select Depart Date",
+    "steps": [
+      {
+        "name": "select Depart Date",
+        "aggregatedDurations": {
+          "median": 0.5553879,
+          "average": 0.5553879
+        },
+        "durations": [
+          {
+            "duration": 0.5553879,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Return date",
+    "steps": [
+      {
+        "name": "Select Return date",
+        "aggregatedDurations": {
+          "median": 0.211868,
+          "average": 0.211868
+        },
+        "durations": [
+          {
+            "duration": 0.211868,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Select Number of Adults",
+    "steps": [
+      {
+        "name": "Select Number of Adults",
+        "aggregatedDurations": {
+          "median": 0.6418629,
+          "average": 0.6418629
+        },
+        "durations": [
+          {
+            "duration": 0.6418629,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Click on Search Flight",
+    "steps": [
+      {
+        "name": "Click on Search Flight",
+        "aggregatedDurations": {
+          "median": 0.0219863,
+          "average": 0.0219863
+        },
+        "durations": [
+          {
+            "duration": 0.0219863,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Close the Application",
+    "steps": [
+      {
+        "name": "Close the Application",
+        "aggregatedDurations": {
+          "median": 1.9422686,
+          "average": 1.9422686
+        },
+        "durations": [
+          {
+            "duration": 1.9422686,
+            "location": "file:///C:/Users/ThinkPad/eclipse-workspace/RDPCucumber/featurefiles/demo.feature:13"
+          }
+        ]
+      }
+    ]
+  }
+]

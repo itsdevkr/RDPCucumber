@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="48.458">
+    <testcase classname="Launch the Application" name="Open Chrome Aplication and Launch Cleartrip" time="48.121">
+        <system-out><![CDATA[Given Url for Cleartrip Application.........................................passed
+When Url is validated.......................................................passed
+And Select trip as RoundTrip................................................passed
+And Select Source...........................................................passed
+Then select Destination.....................................................passed
+Then select Depart Date.....................................................passed
+And Select Return date......................................................passed
+And Select Number of Adults.................................................passed
+And Click on Search Flight..................................................passed
+Then Close the Application..................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

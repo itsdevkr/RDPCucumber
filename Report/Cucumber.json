@@ -1,0 +1,144 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-02-05T17:24:56.819Z",
+        "line": 3,
+        "name": "Open Chrome Aplication and Launch Cleartrip",
+        "description": "",
+        "id": "launch-the-application;open-chrome-aplication-and-launch-cleartrip",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 36634230200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Url for Cleartrip Application",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Url_for_Cleartrip_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 999200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Url is validated",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Url_is_validated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3901825400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Select trip as RoundTrip",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Select_trip_as_RoundTrip()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1751918300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Select Source",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Select_Source()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192879500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "select Destination",
+            "match": {
+              "location": "stepDefinition.SearchFlight.select_Destination()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 555387900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "select Depart Date",
+            "match": {
+              "location": "stepDefinition.SearchFlight.select_Depart_Date()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 211868000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Select Return date",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Select_Return_date()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 641862900,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Select Number of Adults",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Select_Number_of_Adults()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 21986300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Click on Search Flight",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Click_on_Search_Flight()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1942268600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Close the Application",
+            "match": {
+              "location": "stepDefinition.SearchFlight.Close_the_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Launch the Application",
+    "description": "",
+    "id": "launch-the-application",
+    "keyword": "Feature",
+    "uri": "file:featurefiles/demo.feature",
+    "tags": []
+  }
+]
